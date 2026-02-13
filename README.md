@@ -13,8 +13,8 @@ The standard training recipe has 3 main steps:
 - **Clone the repository**:
 
 ```bash
-git clone https://github.com/<your-org>/verl_v6.git
-cd verl_v6
+git clone https://github.com/xyliu-cs/agentic_verl.git
+cd agentic_verl
 ```
 
 - **Create and activate a Conda environment**:
